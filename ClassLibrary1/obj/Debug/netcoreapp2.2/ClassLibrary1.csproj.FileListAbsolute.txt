@@ -1,0 +1,8 @@
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.deps.json
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.csprojAssemblyReference.cache
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfoInputs.cache
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfo.cs
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.dll
+C:\dev\github\FluentValidation_Core3\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.pdb
