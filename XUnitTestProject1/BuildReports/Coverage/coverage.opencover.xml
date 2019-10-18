@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="3320" visitedSequencePoints="4" numBranchPoints="1126" visitedBranchPoints="2" sequenceCoverage="0.12" branchCoverage="0.17" maxCyclomaticComplexity="1697" minCyclomaticComplexity="2" visitedClasses="3" numClasses="172" visitedMethods="4" numMethods="772" />
   <Modules>
-    <Module hash="B969C696-A3A9-4FEC-84AB-67546BC22025">
+    <Module hash="268E5FB2-B898-4C05-8635-EA98CB74BE88">
       <ModulePath>ClassLibrary1.dll</ModulePath>
-      <ModuleTime>2019-10-18T05:07:36</ModuleTime>
+      <ModuleTime>2019-10-18T05:08:29</ModuleTime>
       <ModuleName>ClassLibrary1</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\dev\github\FluentValidation_Core3\ClassLibrary1\Class1.cs" />
@@ -42,9 +42,9 @@
         </Class>
       </Classes>
     </Module>
-    <Module hash="46B9AC34-87E6-4939-9F09-52A39B1685EB">
+    <Module hash="2AC63D04-4ED2-430E-A80B-7D2706420014">
       <ModulePath>FluentValidation.dll</ModulePath>
-      <ModuleTime>2019-10-18T05:07:36</ModuleTime>
+      <ModuleTime>2019-10-18T05:08:29</ModuleTime>
       <ModuleName>FluentValidation</ModuleName>
       <Files>
         <File uid="2" fullPath="/home/jskinner/code/FluentValidation/src/FluentValidation/AbstractValidator.cs" />
